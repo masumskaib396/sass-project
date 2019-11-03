@@ -1,0 +1,138 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 30/01/2019 14:51
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/Flaticon.eot");
+  src: url("../fonts/Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Flaticon.woff2") format("woff2"),
+       url("../fonts/Flaticon.woff") format("woff"),
+       url("../fonts/Flaticon.ttf") format("truetype"),
+       url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {
+  font-family: Flaticon;
+font-style: normal;
+}
+
+.flaticon-old-handphone:before { content: "\f100"; }
+.flaticon-close-envelope:before { content: "\f101"; }
+.flaticon-next:before { content: "\f102"; }
+.flaticon-back:before { content: "\f103"; }
+.flaticon-next-1:before { content: "\f104"; }
+.flaticon-download-arrow:before { content: "\f105"; }
+.flaticon-up-arrow:before { content: "\f106"; }
+.flaticon-left-arrow:before { content: "\f107"; }
+.flaticon-plus-symbol:before { content: "\f108"; }
+.flaticon-minus-symbol:before { content: "\f109"; }
+.flaticon-user:before { content: "\f10a"; }
+.flaticon-home:before { content: "\f10b"; }
+.flaticon-placeholder:before { content: "\f10c"; }
+.flaticon-settings:before { content: "\f10d"; }
+.flaticon-heart:before { content: "\f10e"; }
+.flaticon-circular-arrow:before { content: "\f10f"; }
+.flaticon-play-button:before { content: "\f110"; }
+.flaticon-play-button-1:before { content: "\f111"; }
+.flaticon-play-button-2:before { content: "\f112"; }
+.flaticon-care:before { content: "\f113"; }
+.flaticon-doctor:before { content: "\f114"; }
+.flaticon-heart-1:before { content: "\f115"; }
+.flaticon-stethoscope:before { content: "\f116"; }
+.flaticon-view:before { content: "\f117"; }
+.flaticon-medicine:before { content: "\f118"; }
+.flaticon-doctor-1:before { content: "\f119"; }
+.flaticon-charity:before { content: "\f11a"; }
+.flaticon-charity-1:before { content: "\f11b"; }
+.flaticon-care-1:before { content: "\f11c"; }
+.flaticon-donation:before { content: "\f11d"; }
+.flaticon-love:before { content: "\f11e"; }
+.flaticon-donation-1:before { content: "\f11f"; }
+.flaticon-heart-2:before { content: "\f120"; }
+.flaticon-heart-3:before { content: "\f121"; }
+.flaticon-pharmacy:before { content: "\f122"; }
+.flaticon-ribbon:before { content: "\f123"; }
+.flaticon-respect:before { content: "\f124"; }
+.flaticon-appointment:before { content: "\f125"; }
+.flaticon-team:before { content: "\f126"; }
+.flaticon-employee:before { content: "\f127"; }
+.flaticon-group:before { content: "\f128"; }
+.flaticon-customer-service:before { content: "\f129"; }
+.flaticon-happiness:before { content: "\f12a"; }
+.flaticon-serum:before { content: "\f12b"; }
+.flaticon-tooth:before { content: "\f12c"; }
+.flaticon-notes:before { content: "\f12d"; }
+.flaticon-brain:before { content: "\f12e"; }
+.flaticon-brain-1:before { content: "\f12f"; }
+.flaticon-brain-2:before { content: "\f130"; }
+.flaticon-brain-3:before { content: "\f131"; }
+.flaticon-mould:before { content: "\f132"; }
+.flaticon-rash:before { content: "\f133"; }
+.flaticon-allergic:before { content: "\f134"; }
+.flaticon-tick:before { content: "\f135"; }
+.flaticon-clock:before { content: "\f136"; }
+.flaticon-time:before { content: "\f137"; }
+.flaticon-man-user:before { content: "\f138"; }
+.flaticon-user-1:before { content: "\f139"; }
+.flaticon-internet:before { content: "\f13a"; }
+.flaticon-worldwide:before { content: "\f13b"; }
+.flaticon-world:before { content: "\f13c"; }
+.flaticon-magnifying-glass:before { content: "\f13d"; }
+.flaticon-calendar:before { content: "\f13e"; }
+.flaticon-talk:before { content: "\f13f"; }
+.flaticon-comment:before { content: "\f140"; }
+.flaticon-comment-1:before { content: "\f141"; }
+.flaticon-comment-2:before { content: "\f142"; }
+.flaticon-comment-3:before { content: "\f143"; }
+.flaticon-comment-4:before { content: "\f144"; }
+.flaticon-comment-5:before { content: "\f145"; }
+.flaticon-facebook-logo:before { content: "\f146"; }
+.flaticon-twitter-logo-silhouette:before { content: "\f147"; }
+.flaticon-whatsapp:before { content: "\f148"; }
+.flaticon-youtube:before { content: "\f149"; }
+.flaticon-twitter:before { content: "\f14a"; }
+.flaticon-user-2:before { content: "\f14b"; }
+.flaticon-google-plus:before { content: "\f14c"; }
+.flaticon-linkedin-logo:before { content: "\f14d"; }
+.flaticon-right-quotation-mark:before { content: "\f14e"; }
+.flaticon-quote-left:before { content: "\f14f"; }
+.flaticon-left-quotes-sign:before { content: "\f150"; }
+.flaticon-right-quotes-symbol:before { content: "\f151"; }
+.flaticon-double-left-chevron:before { content: "\f152"; }
+.flaticon-double-angle-pointing-to-right:before { content: "\f153"; }
+.flaticon-reply-arrow:before { content: "\f154"; }
+.flaticon-reply:before { content: "\f155"; }
+.flaticon-reply-1:before { content: "\f156"; }
+.flaticon-pencil:before { content: "\f157"; }
+.flaticon-doctor-2:before { content: "\f158"; }
+.flaticon-medicine-1:before { content: "\f159"; }
+.flaticon-layers:before { content: "\f15a"; }
+.flaticon-layers-1:before { content: "\f15b"; }
+.flaticon-layer:before { content: "\f15c"; }
+.flaticon-minisize-browser:before { content: "\f15d"; }
+.flaticon-flag:before { content: "\f15e"; }
+.flaticon-flag-1:before { content: "\f15f"; }
+.flaticon-flag-2:before { content: "\f160"; }
+.flaticon-like:before { content: "\f161"; }
+.flaticon-thumbs-up-hand-symbol:before { content: "\f162"; }
+.flaticon-research:before { content: "\f163"; }
+.flaticon-graph:before { content: "\f164"; }
+.flaticon-loupe:before { content: "\f165"; }
+.flaticon-analysis:before { content: "\f166"; }
+.flaticon-bar-chart:before { content: "\f167"; }
+.flaticon-growth:before { content: "\f168"; }
+.flaticon-target:before { content: "\f169"; }
+.flaticon-stopwatch:before { content: "\f16a"; }
+.flaticon-time-and-date:before { content: "\f16b"; }
